@@ -7,8 +7,8 @@
     <br>
   <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank"></a>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> <br> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=github&include_all_commits=true&count_private=true"/> <br> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&layout=compact&langs_count=7&theme=github"/>
 </div>
 <br>
 <div style="display: inline_block"><br>

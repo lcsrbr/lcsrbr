@@ -1,7 +1,5 @@
 ## Olá! Eu sou Lucas Moura, moro em Belo Horizonte, sou formado em Administração de Empresas, e atualmente estudante em Desenvolvimento Web na Trybe!
 <div align="center">
-  <img align="center" alt="pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQHQUmAKO31C4A/profile-displayphoto-shrink_200_200/0/1516978443127?e=1666224000&v=beta&t=qN9hJtS2_RKFqCYh0NK2ZS_h8fD9ZGth9dXK8leh7DY">
-  <a href="https://github.com/lcsrbr">
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> <br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&layout=compact&langs_count=7&theme=calm"/>

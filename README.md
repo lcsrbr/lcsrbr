@@ -1,4 +1,7 @@
-## Olá! Eu sou Lucas Moura, moro em Belo Horizonte, sou formado em Administração de Empresas, e atualmente estudante em Desenvolvimento Web na Trybe!
+## Olá! Eu sou Lucas Moura!
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 💼 moro em Belo Horizonte, sou formado em Administração de Empresas, e atualmente estudante em Desenvolvimento Web na Trybe!
 <br>
 <div align="center">
 <div align="center">
@@ -15,13 +18,24 @@
 </div>
 <br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![RTL](https://img.shields.io/badge/-RTL-333333?style=flat&logo=rtl&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
 </div>
 <br>
 <div> 

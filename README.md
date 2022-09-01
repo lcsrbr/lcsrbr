@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<div align="right">
+<div align="left">
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

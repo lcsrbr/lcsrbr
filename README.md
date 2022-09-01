@@ -20,6 +20,7 @@
 <div style="display: inline_block"><br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<div align="right">
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -34,6 +35,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+</div>
 
 <br/>
 </div>

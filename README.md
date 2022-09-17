@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Moura!
+## Bem vindo ao meu github!
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 💼 moro em Belo Horizonte, sou formado em Administração de Empresas, e atualmente estudante em Desenvolvimento Web na Trybe!

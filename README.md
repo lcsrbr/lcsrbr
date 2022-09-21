@@ -1,7 +1,7 @@
-## Bem vindo ao meu github!
+## Welcome to my github!
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💼 moro em Belo Horizonte, sou formado em Administração de Empresas, e atualmente estudante em Desenvolvimento Web na Trybe!
+- 💼 I live in Brazil, graduated in Business Administration, and currently a student in Web Development at Trybe
 <br>
 <div align="center">
 <div align="center">

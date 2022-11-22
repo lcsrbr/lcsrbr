@@ -32,7 +32,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

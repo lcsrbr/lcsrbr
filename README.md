@@ -30,6 +30,11 @@
   ![RTL](https://img.shields.io/badge/-RTL-333333?style=flat&logo=rtl&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=react)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=react)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=react)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

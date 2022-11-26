@@ -48,6 +48,7 @@
   <a href="https://www.linkedin.com/in/lucas-moura-ab1b89bb/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
  
  <br>
+  This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
 ```text

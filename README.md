@@ -4,7 +4,7 @@
   <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   </div>
 <br>
-## 
+
 <div style="display: inline_block"><br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 💼 I live in Brazil, graduated in Business Administration, and currently a student in Web Development at Trybe
@@ -29,7 +29,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>
-##
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> <br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&layout=compact&langs_count=7&theme=calm"/>
@@ -37,7 +37,7 @@
 <br/>
 </div>
  <br>
-  This Week I Spent My Time On
+ ## This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
 ```text
@@ -50,13 +50,12 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
  <br>
- ##
+ 
   ![Snake animation](https://github.com/lcsrbr/lcsrbr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 </div>
-  ##
-  ##
+  
 <div align="center">
   <a href="https://instagram.com/lcsrbr" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href = "mailto:93lucasribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>

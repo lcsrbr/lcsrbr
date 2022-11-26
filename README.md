@@ -1,14 +1,15 @@
 ## Welcome to my GitHub!
-
+<div align="center">
+  <br>
+  <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
+  </div>
+  <a href="https://github.com/lcsrbr">
+<br>
+<div style="display: inline_block"><br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 💼 I live in Brazil, graduated in Business Administration, and currently a student in Web Development at Trybe
 <br>
-<div align="center">
-  <br>
-<div style="display: inline_block"><br>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<div align="left">
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -29,13 +30,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>
 
-<div align="center">
-  <br>
-  <br>
-  <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
-  </div>
-  <a href="https://github.com/lcsrbr">
-<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> <br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&layout=compact&langs_count=7&theme=calm"/>

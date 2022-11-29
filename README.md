@@ -37,6 +37,8 @@
 <br/>
 </div>
  <br>
+ <div align="center">
+
 This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
@@ -49,13 +51,12 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+ </div>
  <br>
- 
   ![Snake animation](https://github.com/lcsrbr/lcsrbr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 </div>
-  
 <div align="center">
   <a href="https://instagram.com/lcsrbr" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href = "mailto:93lucasribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>

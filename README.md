@@ -43,8 +43,8 @@ This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   53 mins         ███████████████▒░░░░░░░░░   60.85 %
-TypeScript   34 mins         █████████▓░░░░░░░░░░░░░░░   39.15 %
+JavaScript   53 mins         █████████████████████████   99.82 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

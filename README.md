@@ -1,8 +1,7 @@
 ## Welcome to my GitHub!
 <div align="center">
   <br>
-  <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%dfd7fe?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
-    <a href="https://www.linkedin.com/in/lcsrbr/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-LINKEDIN-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
+  <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   </div>
 <br>
 

@@ -6,8 +6,8 @@
 <br>
 
 <div style="display: inline_block"><br>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💼 I live in Brazil, graduated in Business Administration, and currently a student in Web Development at Trybe
+<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+- 💼 Brasil, formado em Administração de empresas, e Desenvolvedor Web Fullstack.
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

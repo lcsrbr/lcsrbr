@@ -1,4 +1,4 @@
-## Welcome to my GitHub!
+## Bem vindo ao meu GitHub!
 <div align="center">
   <br>
   <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
@@ -39,6 +39,19 @@
 </div>
  <br>
  <div align="center">
+   
+ <!--START_SECTION:waka-->
+ ## Como passei minha semana?
+```text
+TypeScript   17 hrs 34 mins  █████████████████▓░░░░░░░   70.94 %
+JavaScript   2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+JSON         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Bash         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+```
+
+<!--END_SECTION:waka-->
 
 </div>
 <div align="center">

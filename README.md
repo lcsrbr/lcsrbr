@@ -42,14 +42,7 @@
    
  <!--START_SECTION:waka-->
  ## Como passei minha semana?
-```text
-TypeScript   17 hrs 34 mins  █████████████████▓░░░░░░░   70.94 %
-JavaScript   2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-JSON         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Bash         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-```
+<figure><embed src="https://wakatime.com/share/@c80868b4-a427-48bf-b238-f1f628eee3d8/c83d69c3-f746-4ae1-9795-815a4e39a438.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
 

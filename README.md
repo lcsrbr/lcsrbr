@@ -28,8 +28,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> <br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&layout=compact&langs_count=7&theme=calm"/>
-
-<br/>
+<br><br>
   <a href="https://instagram.com/lcsrbr" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href = "mailto:93lucasribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href="https://www.linkedin.com/in/lucas-moura-ab1b89bb/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>

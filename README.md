@@ -37,16 +37,7 @@
 </div>
 <br/>
 </div>
- <br>
- <div align="center">
-   
- <!--START_SECTION:waka-->
- ## Como passei minha semana?
-.. image:: https://wakatime.com/share/@c80868b4-a427-48bf-b238-f1f628eee3d8/374cd5cf-75de-4dac-8bf8-7780b725a935.png
-    :target: https://wakatime.com/
-<!--END_SECTION:waka-->
 
-</div>
 <div align="center">
   <a href="https://instagram.com/lcsrbr" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href = "mailto:93lucasribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>

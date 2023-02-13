@@ -42,8 +42,8 @@
    
  <!--START_SECTION:waka-->
  ## Como passei minha semana?
-<figure><embed src="https://wakatime.com/share/@c80868b4-a427-48bf-b238-f1f628eee3d8/c83d69c3-f746-4ae1-9795-815a4e39a438.svg"></embed></figure>
-
+.. image:: https://wakatime.com/share/@c80868b4-a427-48bf-b238-f1f628eee3d8/374cd5cf-75de-4dac-8bf8-7780b725a935.png
+    :target: https://wakatime.com/
 <!--END_SECTION:waka-->
 
 </div>

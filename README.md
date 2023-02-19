@@ -7,7 +7,7 @@
   <a href="https://instagram.com/lcsrbr" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href = "mailto:93lucasribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
   <a href="https://www.linkedin.com/in/lucas-moura-ab1b89bb/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
-   <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
+   <a href="https://portfolio-bay-omega-17.vercel.app/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logo=react&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
 </div>
 <div>
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>

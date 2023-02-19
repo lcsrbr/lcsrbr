@@ -1,11 +1,11 @@
 ## Bem vindo ao meu GitHub!
 <div>
   <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
-    - 🔺 Brasileiro, moro em Belo Horizonte, Minas Gerais;
-    - 💻 Desenvolvedor Web Fullstack;
-    - 💼 Formado em Administração de empresas;
-    - 🎸 Músico amador;
-    - 🐈 Apaixonado por gatos;
+    ! 🔺 Brasileiro, moro em Belo Horizonte, Minas Gerais;
+    ! 💻 Desenvolvedor Web Fullstack;
+    ! 💼 Formado em Administração de empresas;
+    ! 🎸 Músico amador;
+    ! 🐈 Apaixonado por gatos;
 </div>
 
 <div>

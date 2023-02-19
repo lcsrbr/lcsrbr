@@ -1,5 +1,5 @@
 <div align="center">
-<font size="7"> Bem vindo ao meu GitHub! </font>
+<font size="7"> ## Bem vindo ao meu GitHub! </font>
   <img height="180em" src="public/header.png"/>
 </div>
 

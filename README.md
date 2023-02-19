@@ -1,12 +1,14 @@
 ## Bem vindo ao meu GitHub!
-<div style="display: inline_block"><br>
-<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
-  - 🔺 Brasileiro, moro em Belo Horizonte, Minas Gerais;
-  - 💻 Desenvolvedor Web Fullstack;
-  - 💼 Formado em Administração de empresas;
-  - 🎸 Músico amador;
-  - 🐈 Apaixonado por gatos;
-<br>
+<div>
+  <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+    - 🔺 Brasileiro, moro em Belo Horizonte, Minas Gerais;
+    - 💻 Desenvolvedor Web Fullstack;
+    - 💼 Formado em Administração de empresas;
+    - 🎸 Músico amador;
+    - 🐈 Apaixonado por gatos;
+</div>
+
+<div>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -22,7 +24,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

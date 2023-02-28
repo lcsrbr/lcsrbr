@@ -100,7 +100,7 @@ alt="React"
 </div>
 
 ##
-<h3  align="center"> Stats </h3>
+<h3  align="center"> ℹ️ Stats </h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsrbr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsrbr&langs_count=7&theme=midnight-purple"/>

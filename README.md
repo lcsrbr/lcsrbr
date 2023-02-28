@@ -71,12 +71,12 @@ alt="React"
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
     alt="Express.js"
   />
-  </div>
-  <div align="center">
   <img
     src="https://img.shields.io/badge/Sequelize-1572b6?style=for-the-badge&logo=sequelize&logoColor=white"
     alt="Sequelize"
   />
+  </div>
+  <div align="center">
     <img
     src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
     alt="Jest"
